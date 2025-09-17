@@ -1,0 +1,86 @@
+*{
+    margin: 01px;
+    padding: 0;
+
+}
+    .header1{
+    background-color: rgb(36, 35, 35);
+    height: 80px;
+    color: white;
+    justify-items: center;
+}
+    header a{
+    color: rgb(248, 248, 248);
+    text-decoration: none;
+   gap: 10px;
+   margin: 15px;
+    
+}
+    .main{
+    margin-left: 100px;
+}
+    .box1{
+    background-color: rgb(216, 216, 216);
+   border-radius: 20px;
+   padding: 8px 16px;
+    display: inline-block;
+}
+    .project1{
+    height:90px;
+    width: 600px;
+    padding-top: 5px;
+    padding-left: 10px;
+    background-color: rgb(241, 241, 241);
+    border-left: 4px solid blue;
+   
+}
+    
+    .p2{
+        padding-bottom: 10px;
+}
+    a{
+        text-decoration: none;
+}
+  
+    .project2{
+        width: 600px;
+        height: 90px;
+       background-color: rgb(241, 241, 241);
+       padding-top: 5px;
+       padding-left: 10px;
+       border-left: 4px solid blue;
+}
+   .p2{
+        padding-top: 10px;
+}
+    a{
+        padding-top: 10px;
+}
+
+    .send{
+        background-color: blue;
+        color: white;
+        border: none;
+        
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+}
+    
+    footer{
+        background-color: black;
+        color: white;
+        height: 70px;
+        width: 100;
+        font-size: 16px;
+       
+}
+    form input{
+        width: 50%;
+        height: 25px;
+       
+}
+   
+    
+   
+
